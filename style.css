@@ -208,7 +208,7 @@ span{
 }
 
 .typing-text span::after{
-    content: "Graphic Designer";
+    content: "";
     background-color: black;
     position: absolute;
     width: calc(100% + 8px);
